@@ -1,0 +1,44 @@
+.mylink{
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 40px;
+}
+
+.all_links{
+	background-color:#fff;
+	border-right: 2px solid red; 
+	border-top: 1px solid black; 
+	padding-top: 5px;
+	margin-left: 10px;
+	margin-top: 5px;
+	
+}
+
+.contain{
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+.my-custom-scrollbar {
+position: relative;
+height: 350px;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+
+
+/*student information page*/
+.span1{
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 20px;
+	color: red;
+}
+.span2{
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 50px;
+	color: red;
+}
